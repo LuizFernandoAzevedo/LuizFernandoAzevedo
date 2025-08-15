@@ -1,7 +1,5 @@
 <h1> <img src="https://raw.githubusercontent.com/LuizFernandoAzevedo/LuizFernandoAzevedo/main/assets/pikachu-wave.gif" width="70">  Hi, I'm Luiz Fernando</h1>
 
-## About me
-
 - 💻 Full Stack Developer | C#, .NET, Angular, AWS  
 - <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17"/> Based in Brazil | 🌍 Open for collaboration worldwide
 - 🎮 Gamer & tech enthusiast | Always exploring new things
@@ -41,9 +39,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LuizFernandoAzevedo/LuizFernandoAzevedo/output/pacman-contribution-graph.svg">
 </picture>
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/LuizFernandoAzevedo/LuizFernandoAzevedo/main/assets/shrimp-working.gif"/>
-
-<div align="left">
+<div>
   <a href="https://www.linkedin.com/in/luiz-fernando-azevedo-de-oliveira" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
